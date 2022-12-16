@@ -9,4 +9,4 @@
 
 ### About me
 
-Junior Frontend Developer
+I am a quick learner, I work well in a team and I really want to learn and develop new skills.
