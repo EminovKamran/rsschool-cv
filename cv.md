@@ -13,10 +13,10 @@ I am a quick learner, I work well in a team and I really want to learn and devel
 
 ## Skills 
 
-- **HTML**
-- **CSS/SASS**
-- **JavaScript (Basic)**
-- **Git**
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git
 
 ## Code Example
 
@@ -28,7 +28,7 @@ I am a quick learner, I work well in a team and I really want to learn and devel
 
 ## Education
 
-- *University:* ***Plekhanov Russian University of Economics.***
+- University: ***Plekhanov Russian University of Economics.***
 
 ## English
 
