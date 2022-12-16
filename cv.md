@@ -30,6 +30,8 @@ I am a quick learner, I work well in a team and I really want to learn and devel
 
 - University: ***Plekhanov Russian University of Economics.***
 
-## English
+## Languages
 
-- A1
+- English (A2)
+- Turkish 
+- Azerbaijani 
