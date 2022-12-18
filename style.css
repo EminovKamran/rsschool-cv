@@ -1,3 +1,149 @@
-h1 {
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.header-nav {
+    background: lightblue;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+.site-novigation  {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 60px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.site-novigation__item a {
+    text-decoration: none;
+    color: black;
+}
+
+.main-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    gap: 5px;
+    align-items: center;
+}
+
+.main-box__one {
+    width: 30%;
+}
+
+.box-one__item-one {
+    background: lightblue;
+    border-radius: 10px;
+    padding: 10px 0 10px 35px;
+}
+
+.box-one__item-two {
+    background: lightblue;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.main-box__two {
+    width: 69.5%;
+    background: lightblue;
+    border-radius: 10px;
+}
+
+.my-avatar img {
+    background: lightgray;
+    border-radius: 50%;
+}
+
+.box-two__item-one {
+    padding: 10px 0 10px 10px;
+    border-bottom: 10px solid tomato;
+}
+.box-two__item-one p {
+    padding-top: 5px;
+}
+
+.box-two__item-two {
+    padding: 10px 0 10px 10px;
+    border-bottom: 10px solid tomato;
+}
+
+.skills-item {
+    padding: 15px 0 0 20px;
+}
+
+.main-box__three {
+    width: 30%;
+    background: lightblue;
+    border-radius: 10px;
+}
+
+.box-one__item-two {
+    padding: 10px 0 10px 35px;
+}
+
+.contact-list {
+    padding: 15px 0 0 20px;
+}
+
+.box-two__item-three {
+    padding: 10px 0 10px 10px;
+    border-bottom: 10px solid tomato;
+}
+
+.code-js {
+    margin: 15px 0 0 20px;
+    background: lightgrey;
+    padding: 5px;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.box-two__item-four {
+    padding: 10px 0 10px 10px;
+    border-bottom: 10px solid tomato;
+}
+
+.experience-item {
+    padding: 15px 0 0 20px;
+}
+
+.box-two__item-five {
+    padding: 10px 0 10px 10px;
+}
+
+.education-item {
+    margin: 15px 0 0 20px;
+}
+
+.box-one__item-three {
+    padding: 10px 0 10px 35px;
+    background: lightblue;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer {
+    margin-top: 5px;
+    background: lightblue;
+    border-radius: 10px;
+}
+
